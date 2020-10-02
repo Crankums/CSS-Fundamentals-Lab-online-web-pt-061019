@@ -2,6 +2,10 @@ h1 {
   text-align: center;
 }
 
+nav, figcaption {
+  text-align: center;
+}
+
 nav a {
   padding: 10px
 }
